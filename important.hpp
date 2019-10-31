@@ -1,6 +1,6 @@
 #ifndef IMPORTANT_HPP_INCLUDED
 #define IMPORTANT_HPP_INCLUDED
-#include <String>
+#include <string>
 #include <memory>
 
 extern int window_x;
