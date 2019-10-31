@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <String>
+#include <string>
 #include <stdlib.h>
 #include <time.h>
 
